@@ -1,2 +1,55 @@
 # SQL-Exploratory-Data-Analysis-Project
-A project using SQL/SAS to explore the data within the Gold views/tables created in the SAS-SQL-Data-Warehouse-Project
+
+This repository contains a comprehensive collection of SQL scripts for data exploration, analytics, and reporting.
+It is designed to help data analysts and business intelligence professionals efficiently explore, segment, and analyze data within relational databases.
+----
+
+Project Description The DATA with BARA Exploratory Project demonstrates systematic approaches to Exploratory Data Analysis (EDA) using SQL.
+Each script is organized by analytical theme, providing a reusable toolkit for understanding datasets, identifying trends, and preparing data for reporting and visualization.
+----
+
+Analytical Themes
+
+Database Exploration Scripts to inspect schema, tables, and relationships.
+
+* Identify available datasets
+* Explore metadata and constraints
+  
+Dimensions Exploration Focus on categorical variables.
+
+* Distribution analysis
+* Unique value counts
+* Segmentation queries
+  
+Date Exploration Work with time-based fields.
+
+* Trends over time
+* Seasonality checks
+* Rolling windows
+
+Measures Exploration Analyze numerical measures.
+
+* Central tendency (AVG, MEDIAN)
+* Dispersion (STDDEV, VARIANCE)
+* Outlier detection
+  
+Magnitude Analysis Compare values to understand scale and impact.
+
+* Absolute vs relative measures
+* Growth and decline patterns
+  
+Ranking Analysis Identify leaders and laggards.
+
+* Top-N queries
+* Percentile ranking
+* Dense vs sparse ranking
+
+
+#### Inspiration:
+This project was based on the video lesson SQL Data Warehouse from Scratch | Full Hands‑On Data Engineering Project by Data with Baraa, available on YouTube at: https://www.youtube.com/watch?v=9GVqKuTVANE&t=4205s
+
+
+
+# About Me
+I’m Amanda Mitchell, a data scientist focused on expanding my technical expertise. I built this data‑warehouse project to deepen my understanding of ETL processes, data modeling, and data architecture, and to sharpen the SQL skills I don’t often use in my day‑to‑day work.
+
