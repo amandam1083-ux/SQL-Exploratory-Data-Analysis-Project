@@ -4,7 +4,8 @@ This repository contains a comprehensive collection of SQL scripts for data expl
 It is designed to help data analysts and business intelligence professionals efficiently explore, segment, and analyze data within relational databases.
 ----
 
-Project Description: The SQL-Exploratory-Data-Analysis-Project demonstrates systematic approaches to Exploratory Data Analysis (EDA) using SQL.
+Project Description: 
+The SQL-Exploratory-Data-Analysis-Project demonstrates systematic approaches to Exploratory Data Analysis (EDA) using SQL.
 Each script is organized by analytical theme, providing a reusable toolkit for understanding datasets, identifying trends, and preparing data for reporting and visualization.
 ----
 
@@ -46,7 +47,7 @@ Ranking Analysis Identify leaders and laggards.
 
 
 #### Inspiration:
-This project was based on the video lesson SQL Data Warehouse from Scratch | Full Hands‑On Data Engineering Project by Data with Baraa, available on YouTube at: https://www.youtube.com/watch?v=9GVqKuTVANE&t=4205s
+This project was based on the video lesson SQL Exploratory Data Analysis (EDA) Project | Full Hands‑On Data Engineering Project by Data with Baraa, available on YouTube at: https://www.youtube.com/watch?v=6cJ5Ji8zSDg
 
 
 
