@@ -4,7 +4,7 @@ This repository contains a comprehensive collection of SQL scripts for data expl
 It is designed to help data analysts and business intelligence professionals efficiently explore, segment, and analyze data within relational databases.
 ----
 
-Project Description The DATA with BARA Exploratory Project demonstrates systematic approaches to Exploratory Data Analysis (EDA) using SQL.
+Project Description: The SQL-Exploratory-Data-Analysis-Project demonstrates systematic approaches to Exploratory Data Analysis (EDA) using SQL.
 Each script is organized by analytical theme, providing a reusable toolkit for understanding datasets, identifying trends, and preparing data for reporting and visualization.
 ----
 
