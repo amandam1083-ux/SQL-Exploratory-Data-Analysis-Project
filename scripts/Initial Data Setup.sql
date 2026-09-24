@@ -81,6 +81,7 @@ TRUNCATE TABLE gold.dim_customers;
 GO
 
 BULK INSERT gold.dim_customers
+	--Insert your own file location
 FROM 'C:\Users\BASHEER\OneDrive\Desktop\exploitary data analytics\sql-data-analytics-project-main (1)\sql-data-analytics-project-main\datasets\csv-files\gold.dim_customers.csv'
 WITH (
 	FIRSTROW = 2,
@@ -93,6 +94,7 @@ TRUNCATE TABLE gold.dim_products;
 GO
 
 BULK INSERT gold.dim_products
+	--Insert your own file location
 FROM 'C:\Users\BASHEER\OneDrive\Desktop\exploitary data analytics\sql-data-analytics-project-main (1)\sql-data-analytics-project-main\datasets\csv-files\gold.dim_products.csv'
 WITH (
 	FIRSTROW = 2,
@@ -105,6 +107,7 @@ TRUNCATE TABLE gold.fact_sales;
 GO
 
 BULK INSERT gold.fact_sales
+	--Insert your own file location
 FROM 'C:\Users\BASHEER\OneDrive\Desktop\exploitary data analytics\sql-data-analytics-project-main (1)\sql-data-analytics-project-main\datasets\csv-files\gold.fact_sales.csv'
 WITH (
 	FIRSTROW = 2,
