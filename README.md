@@ -26,7 +26,6 @@ Date Exploration Work with time-based fields.
 
 * Trends over time
 * Seasonality checks
-* Rolling windows
 
 Measures Exploration Analyze numerical measures.
 
@@ -42,7 +41,6 @@ Magnitude Analysis Compare values to understand scale and impact.
 Ranking Analysis Identify leaders and laggards.
 
 * Top-N queries
-* Percentile ranking
 * Dense vs sparse ranking
 
 
@@ -52,5 +50,5 @@ This project was based on the video lesson SQL Exploratory Data Analysis (EDA) P
 
 
 # About Me
-I’m Amanda Mitchell, a data scientist focused on expanding my technical expertise. I built this data‑warehouse project to deepen my understanding of ETL processes, data modeling, and data architecture, and to sharpen the SQL skills I don’t often use in my day‑to‑day work.
+I’m Amanda Mitchell, a data scientist focused on expanding my technical expertise. I built this EDA project to deepen my understanding and to sharpen my SQL skills.
 
